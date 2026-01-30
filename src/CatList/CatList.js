@@ -1,5 +1,5 @@
 import Cat from "../Cat/Cat";
-import "./CatList.scss";
+import "./CatList.css";
 const CatList = (props) => {
   console.log(props);
   return (

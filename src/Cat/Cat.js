@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./Cat.scss";
+import "./Cat.css";
 
 import Card from "../Card/Card";
 import Button from "../Button/Button";
